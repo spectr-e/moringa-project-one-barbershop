@@ -1,5 +1,6 @@
-# Moringa School Project One
-## Creating a Static Website
+# Fine Cuts Kinyozi
+## Moringa School Project One
+### Creating a Static Website
 Using basic HTML & CSS
 
 ### Contributors

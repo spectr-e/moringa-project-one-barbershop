@@ -1,7 +1,7 @@
-# Fine Cuts Kinyozi
+# Fine Cuts Barber Salon
 ## Moringa School Project One
 ### Creating a Static Website
-Using basic HTML & CSS
+Using HTML & CSS & GIT
 
 ### Contributors
 
